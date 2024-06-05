@@ -10,7 +10,7 @@ const Footergrid = () => {
   </aside> 
   <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
           <a
-            href="https://www.linkedin.com/in/surya-prakash-6b2914191/"
+            href="https://www.linkedin.com/in/gksaravanan/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ const Footergrid = () => {
             </label>
           </a>
           <a
-            href="https://github.com/Suryaprakash-G26"
+            href="https://github.com/saravanankandasamyGKS/pettycash.git"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -44,7 +44,7 @@ const Footergrid = () => {
             </label>
           </a>
           <a
-            href="mailto:gsurya124@gmail.com"
+            href="mailto:gksaravanan008@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
